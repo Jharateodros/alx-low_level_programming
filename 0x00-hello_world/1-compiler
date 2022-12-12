@@ -1,4 +1,4 @@
 #!/bin/bash
- gcc - с $CFILE -O 1-compiler.o
+gcc - с $CFILE -O 1-compiler.o
 
 
