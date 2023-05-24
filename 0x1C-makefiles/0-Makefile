@@ -1,8 +1,2 @@
-# name of the executable
-school: 
-
-# rule for building the executable
-all: 
-	cc school.c -o school
-
-# no variables
+all: main.c school.c
+	gcc  main.c school.c -o school
