@@ -1,0 +1,8 @@
+# name of the executable
+school: 
+
+# rule for building the executable
+all: 
+	cc school.c -o school
+
+# no variables
